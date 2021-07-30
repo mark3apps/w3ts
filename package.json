@@ -14,6 +14,9 @@
     "typescript": "^4.0.5",
     "war3-types": "^1.0.4"
   },
+  "publishConfig": {
+    "@MARK3APPS:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mark3apps/w3ts.git"
