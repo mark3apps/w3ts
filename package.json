@@ -1,6 +1,6 @@
 {
-  "name": "@mark3apps/w3ts",
-  "version": "2.3.1",
+  "name": "mark3apps-w3ts",
+  "version": "4.0.2",
   "description": "TypeScript API for Warcraft III custom maps.",
   "author": "TriggerHappy/KickKing",
   "license": "MIT",
