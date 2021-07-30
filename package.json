@@ -1,5 +1,5 @@
 {
-  "name": "w3ts",
+  "name": "@mark3apps/w3ts",
   "version": "2.3.1",
   "description": "TypeScript API for Warcraft III custom maps.",
   "author": "TriggerHappy",
@@ -16,10 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cipherxof/w3ts.git"
+    "url": "git+https://github.com/mark3apps/w3ts.git"
   },
   "bugs": {
-    "url": "https://github.com/cipherxof/w3ts/issues"
+    "url": "https://github.com/cipherx/w3ts/issues"
   },
-  "homepage": "https://github.com/cipherxof/w3ts#readme"
+  "homepage": "https://github.com/cipherxof/w3ts#readme",
+  "dependencies": {}
 }
